@@ -9,6 +9,12 @@
     <span>Drink water</span>
   </li>
   <li>
+    <span>Microsoft Azure</span>
+  </li>
+  <li>
+    <span>Linux server administration</p>
+  </li>
+  <li>
     <span>C++</span>
   </li>
   <li>
@@ -37,16 +43,21 @@
     <span>Flask</span>
   </li>
   <li>
+    <span>Google V8 Dev</span>
+  </li>
+  <li>
     <span>Django</span>
   </li>
   <li>
     <span>C</span>
+  </li>
+  <span>Ethical hacking</span>
   </li>
 </ul>
 
 ## Aspirations in my life
 <ul>
   <li>
-    <span>Stop peeing in bed.</span>
+    <span>Stop peeing in bed</span>
   </li>
  </ul>
