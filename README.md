@@ -49,9 +49,14 @@
     <span>Django</span>
   </li>
   <li>
+    <span>Django Rest Framework</span>
+  </li>
+  <li>
     <span>C</span>
   </li>
-  <span>Ethical hacking</span>
+  <li>
+    <span>Ethical hacking</span>
+  </li>
   </li>
 </ul>
 
