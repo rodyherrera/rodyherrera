@@ -1,22 +1,52 @@
 ### Hello water drinker
 
-- Rodolfo Sebastian Herrera Hernandez
-- 16 years living on planet Earth :)
+<p>Rodolfo Sebastian Herrera Hernandez</p>
+<p>16 years living on planet Earth :)</p>
 
-- Skills
-- Drink water
-- C++
-- JavaScript
-- Python
-- SQL
-- HTML
-- CSS
+## Skills
+<ul>
+  <li>
+    <span>Drink water</span>
+  </li>
+  <li>
+    <span>C++</span>
+  </li>
+  <li>
+    <span>JavaScript</span>
+  </li>
+  <li>
+    <span>Python</span>
+  </li>
+  <li>
+    <span>SQL</span>
+  </li>
+  <li>
+    <span>HTML</span>
+  </li>
+  <li>
+    <span>CSS</span>
+  </li>
+ </ul>
+ 
+## Tights
+<ul>
+  <li>
+    <span>PHP</span>
+  </li>
+  <li>
+    <span>Flask</span>
+  </li>
+  <li>
+    <span>Django</span>
+  </li>
+  <li>
+    <span>C</span>
+  </li>
+</ul>
 
-- Tights
-- PHP
-- Flask
-- Django
-- C
-
-- Aspirations in my life
-- Stop peeing in bed.
+## Aspirations in my life
+<ul>
+  <li>
+    <span>Stop peeing in bed.</span>
+  </li>
+ </ul>
