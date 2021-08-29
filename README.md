@@ -12,7 +12,7 @@
     <span>Microsoft Azure</span>
   </li>
   <li>
-    <span>Linux server administration</p>
+    <span>Linux server administration</span>
   </li>
   <li>
     <span>C++</span>
