@@ -1,7 +1,22 @@
-### Hi there 👋
+### Hello water drinker
 
-My name is Rodolfo Herrera Hernandez <3
+- Rodolfo Sebastian Herrera Hernandez
+- 16 years living on planet Earth :)
 
-- 🔭 I am constantly learning new technologies...
-- 🌱 I'm constantly improving my coder skills...
-- 😄 You would make me happy if you drink water <3.
+- Skills
+- Drink water
+- C++
+- JavaScript
+- Python
+- SQL
+- HTML
+- CSS
+
+- Tights
+- PHP
+- Flask
+- Django
+- C
+
+- Aspirations in my life
+- Stop peeing in bed.
