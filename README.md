@@ -34,8 +34,17 @@
   </li>
  </ul>
  
-## Tights
+## Skills to improve
 <ul>
+  <li>
+    <span>Conquer your heart</span>
+  </li>
+  <li>
+    <span>ReactJS</span>
+  </li>
+  <li>
+    <span>React Native</span>
+  </li>
   <li>
     <span>PHP</span>
   </li>
@@ -56,7 +65,6 @@
   </li>
   <li>
     <span>Ethical hacking</span>
-  </li>
   </li>
 </ul>
 
