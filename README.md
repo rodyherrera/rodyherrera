@@ -55,6 +55,9 @@
     <span>Google V8 Dev</span>
   </li>
   <li>
+    <span>Rust</span>
+  </li>
+  <li>
     <span>Django</span>
   </li>
   <li>
