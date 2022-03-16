@@ -37,7 +37,7 @@
 ## Skills to improve
 <ul>
   <li>
-    <span>Conquer your heart</span>
+    <span>NextJS</span>
   </li>
   <li>
     <span>ReactJS</span>
@@ -66,14 +66,4 @@
   <li>
     <span>C</span>
   </li>
-  <li>
-    <span>Ethical hacking</span>
-  </li>
 </ul>
-
-## Aspirations in my life
-<ul>
-  <li>
-    <span>Stop peeing in bed</span>
-  </li>
- </ul>
