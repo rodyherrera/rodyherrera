@@ -1,7 +1,7 @@
 ### Hello water drinker
 
 <p>Rodolfo Sebastian Herrera Hernandez</p>
-<p>16 years living on planet Earth :)</p>
+<p>16 years living on planet Earth, Chile :)</p>
 
 ## Skills
 <ul>
