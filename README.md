@@ -1,7 +1,7 @@
 ### Merhaba, Hallo, Oi und Hello!
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?codewithrodi=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
