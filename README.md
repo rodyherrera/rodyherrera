@@ -1,3 +1,2 @@
 ### Merhaba, Hallo, Oi und Hello!
-Rodolfo Sebastian Herrera Hernandez, Full Stack Developer, aspiring to one day be riding a unicorn on Titan.
-
+![](https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&count_private=true&theme=tokyonight)
