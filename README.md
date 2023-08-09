@@ -16,9 +16,19 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&hide_border=true" />
   </picture>
-</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=true" />
+  </picture>
+</div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/codewithrodi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br>
