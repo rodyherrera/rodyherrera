@@ -5,18 +5,6 @@
 - 📫 Reach me at: **contact@codewithrodi.com**
 
 <div>
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&hide_border=true" />
-  </picture>
-<br />
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=false&theme=dark&hide_border=true"
@@ -28,6 +16,17 @@
     />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=false&hide_border=true" />
   </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=codewithrodi&show_icons=true&hide_border=true" />
+    </picture>
 </div>
 
 <h3 align="left">Support:</h3>
