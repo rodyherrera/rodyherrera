@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Rodolfo <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
-<h3 align="center">A passionate Full Stack Developer from Chile</h3>
+<h3 align="center">Self-taught Full-Stack Developer, from Chile.</h3>
 
 - 📫 Reach me at: **contact@codewithrodi.com**
 
@@ -19,14 +19,14 @@
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=false&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=false&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&hide_progress=false&hide_border=true" />
   </picture>
 </div>
 
