@@ -18,7 +18,7 @@
   </picture>
 </div>
 
-<img width="100%" height="142px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrodi&layout=compact&theme=dark" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/codewithrodi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajnart" /></a></p><br>
