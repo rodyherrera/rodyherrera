@@ -4,7 +4,8 @@
 
 - 📫 Reach me at: **contact@codewithrodi.com** ([Website](https://www.codewithrodi.com/) | [NPM](https://npmjs.com/~codewithrodi/))
 
-#### 🌱 Some of my projects...
+#### 🌱 An overview of some projects...
+- [EnzymeDB](https://github.com/codewithrodi/EnzymeDB/) - A powerful object-relational mapping (ORM) and data manipulation library designed to simplify and streamline interaction with local storage and data in JavaScript applications.
 - [Lovelace](https://github.com/codewithrodi/lovelace/) - Self-host your own API to use ChatGPT for free. Lovelace also provides you with an intuitive multilanguage web application, as well as detailed documentation for using the software. interact with Ada and implement it in your applications! [Website](https://lovelace.codewithrodi.com/) - [Docs](https://lovelace-docs.codewithrodi.com/)
 - [CodexDrake](https://github.com/codewithrodi/codexdrake/) - A search engine that will allow you to browse the internet, allowing you to search for images, links, videos, news, books, shopping items without paying APIs, totally self-hosted, fast, secure and private. [Website](https://codexdrake.codewithrodi.com/)
 - [OpenDeyim](https://github.com/codewithrodi/opendeyim/) - A modern, self-hosted, open source translation software licensed under the MIT license, host your own translation service, and save yourself paying extra with third parties. [Website](https://opendeyim.codewithrodi.com/)
