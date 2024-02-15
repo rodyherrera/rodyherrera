@@ -5,7 +5,9 @@
 - 📫 Reach me at: **contact@rodyherrera.com** ([Website](https://www.rodyherrera.com/) | [NPM](https://npmjs.com/~codewithrodi/))
 
 #### 🌱 An overview of some projects...
+- [Quantum](https://github.com/rodyherrera/Quantum/) - 🚀 Self-hosted open source alternative to Vercel, Heroku and Netlify. All your applications, just in one place. Develop and deploy with your favorite tools and continuous deployment with Github.
 - [Moovilz](https://github.com/rodyherrera/Moovilz/) - An open source web application that allows you to obtain, through an intuitive user interface and an accessible API, information about a wide variety of bus stops according to the countries mapped within the software. [Website](https://moovilz.rodyherrera.com/)
+- [LisaJS](https://github.com/rodyherrera/Lisa/) - Lightweight and fast C++ JavaScript runtime environment for your scripts. Built with Apple JavaScriptCore.
 - [Lovelace](https://github.com/rodyherrera/lovelace/) - Self-host your own API to use ChatGPT for free. Lovelace also provides you with an intuitive multilanguage web application, as well as detailed documentation for using the software. interact with Ada and implement it in your applications! [Website](https://lovelace.rodyherrera.com/) - [Docs](https://lovelace-docs.rodyherrera.com/)
 - [CodexDrake](https://github.com/rodyherrera/codexdrake/) - A search engine that will allow you to browse the internet, allowing you to search for images, links, videos, news, books, shopping items without paying APIs, totally self-hosted, fast, secure and private. [Website](https://codexdrake.rodyherrera.com/)
 - [OpenDeyim](https://github.com/rodyherrera/opendeyim/) - A modern, self-hosted, open source translation software licensed under the MIT license, host your own translation service, and save yourself paying extra with third parties. [Website](https://opendeyim.rodyherrera.com/)
