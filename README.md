@@ -21,7 +21,7 @@
 <div>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodyherrera&hide_progress=false&theme=dark&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodyherrera&layout=donut&langs_count=20&hide_progress=false&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
